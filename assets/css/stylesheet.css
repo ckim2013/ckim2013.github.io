@@ -169,7 +169,7 @@ a:hover {
 
 #sectionAbout {
 	text-align: center;
- 	background-image: url(../images/02.jpg);
+ 	background-image: url(../images/bay_area.png);
  	background-size: cover;
  	background-repeat: no-repeat;
 	height: auto;
@@ -584,6 +584,7 @@ a.resume {
 }
 .footerRight a{
 	color: #777;
+  padding-left: 15px;
 }
 .footerRight a:hover {
 	color: #fff;
