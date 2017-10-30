@@ -1,4 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,600,600italic,700);
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
 /*!
  * Briwfi Onepage vCard Template
  * © sandthemes
@@ -153,8 +155,8 @@ a:hover {
   	font-weight: 300;
   	line-height: 25px;
   	color: #787878;
-  	font-family: 'Crimson Text', serif;
-  	font-style: italic;
+  	font-family: 'Open Sans', sans-serif;
+  	/*font-style: italic;*/
 }
 .sectionTitle .separatorlineblack {
   	margin-bottom: 30px;
@@ -272,8 +274,9 @@ a:hover {
 	font-size: 17px;
   	font-weight: 300;
   	color: #787878;
-  	font-family: 'Crimson Text', serif;
-  	font-style: italic;
+  	/*font-family: 'Crimson Text', serif;*/
+  	/*font-style: italic;*/
+    font-family: 'Open Sans', sans-serif;
 }
 
 /* ====ABOUT RIGHT CONTENT BOTTOM==== */
@@ -360,21 +363,22 @@ a.resume {
 .resumeName {
 	color: #666;
 	font-size: 12px;
-	text-transform: lowercase;
+  font-style: normal;
+	/*text-transform: lowercase;*/
 }
 .resumeList p {
 	font-size: 16px;
   	font-weight: 300;
   	color: #787878;
-  	font-family: 'Crimson Text', serif;
-  	font-style: italic;
+  	font-family: 'Open Sans', sans-serif;
+  	/*font-style: italic;*/
 }
 .resumePeriod {
 	background: #222222;
 	color: #fff;
 	padding: 2px 4px;
 	font-size: 12px;
-	font-style: italic;
+	/*font-style: italic;*/
 }
 
 .resumeStats {
@@ -569,7 +573,7 @@ a.resume {
 
 .contactFooter {
 	background-color: #111;
-	padding: 40px 0 30px 0;
+	/*padding: 40px 0 30px 0;*/
 	color: #fff;
 }
 .footerLeft {
@@ -715,7 +719,7 @@ ul.errorMessages li {
 }
 .modal-box-content p {
 	color: #777777;
-	font-family: 'Maven Pro', serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
 	line-height: 28px;
 }
