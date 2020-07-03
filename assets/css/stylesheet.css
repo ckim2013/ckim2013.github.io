@@ -265,7 +265,7 @@ a:hover {
 .aboutTitle h2 {
 	margin-top: 0;
 	color: #777!important;
-	text-transform: lowercase!important;
+	/* text-transform: lowercase!important; */
 }
 .aboutIntro {
 	margin-top: 30px;
